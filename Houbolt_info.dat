@@ -1,0 +1,11 @@
+Length,Reference Area,Rocket_Part,mass_m,x_cm
+367.0,0.02,Nosecone,29.25,29.55
+0.0,0.0,Recovery Bay,5.00,61.1
+0.0,0.0,Avionics Bay,1.51,86.5
+0.0,0.0,Upper Engineering Bay,4.25,127.0
+0.0,0.0,Fuel (Ethanol) Tank (pressure + tank),2.24,164.0
+0.0,0.0,Lower Engineering Bay,4.31,206.0
+0.0,0.0,Oxidizer Tank (pressure + tank),8.32,254.5
+0.0,0.0,Propellant delivery Bay,2.67,299.00
+0.0,0.0,Engine Bay + Fins ,03.09,339.6
+0.0,0.0,Boat Tail,4.52,352.0
